@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header decoration */
+header{
+    background-image: url(../img/pexels-vincentfotos-18028832.jpg);
+    background-position: bottom;
+    background-size: cover;
+    height:700px;
+}
+
+/* start header-home decoration   */
+.header-home a {
+    font-size: xx-large;
+    color: #f9f9f9;
+    text-decoration: none;
+    padding: 15px;
+    margin-top: 11px;
+    display: inline-block;
+    font-family: cursive;
+
+}
+/* End header-home decoration */
+
+/* start header-contant decoration */
+.header-contant{
+    text-align: center;
+    color: floralwhite;
+    font-size: xxx-large;
+    margin-top: 100px;
+    padding: 10px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+
+}
+/* End header-contant decoration */
+
+/* start button decoration  */
+.header-contant button{
+    padding: 14px;
+    margin: 22px;
+    background-color: midnightblue;
+    color: aliceblue;
+    border: none;
+    border-radius: 20px;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+/* End button decoration  */
+
+/* Start contant page decoration  */
+.contant-page{
+    text-align: center;
+}
+.contant-page h2{
+    text-transform: capitalize;
+    font-size: xx-large;
+    margin: 20px 0 10px;
+    letter-spacing: 3px;
+}
+.contant-page p{
+    font-size: x-large;
+    margin-bottom: 30px;
+}
+
+/*Start img decoration */
+.contant-page img{ 
+    text-align: center;
+    width: 416px;
+    height: 554px;
+    margin: 7px;
+}
+/* End img decoration  */
+
+/* End contant page decoration  */
+
+/* start p decoration  */
+.left-paragraph{
+    text-align: left;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    margin-top: 260px;
+    margin-left: 35px;
+    color: #c34a00;
+    font-family: cursive;
+    font-weight: 700;
+}
+.right-paragraph{
+    text-align: right;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    margin-top: 400px;
+    margin-right: 32px;
+    color: #c34a00;
+    font-family: cursive;
+    font-weight: 700;
+}
+/* end p decoration  */
+
+/* start img decoration  */
+.products1 img{
+    margin: 33px;
+    width: 714px;
+    border-radius: 140px;
+    float: right;
+}
+
+.products2 img{
+    width: 700px;
+    border-radius: 119px;
+    float: left;
+    margin: 31px;
+    margin-top: 84px;
+}
+/* end img decoration  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
